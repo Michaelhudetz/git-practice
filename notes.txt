@@ -1,3 +1,4 @@
 
 Majklův první test
-teĎka zkoušíme něco zajímavého
+Tohle je branch který jsem udělal ve VSku
+Vypadá to popíči
