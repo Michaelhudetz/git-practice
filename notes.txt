@@ -1,2 +1,6 @@
+
 Majklův první test
 Learning Git like a legend 😎
+
+This line was changed in the MAIN branch ⚠️
+0baaf0c (edit first line in main branch)
